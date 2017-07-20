@@ -1,0 +1,282 @@
+# Loading project verification
+# Compile of Network.v was successful.
+# Compile of parameters.v was successful.
+# Compile of testbench.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim 
+# Start time: 11:18:41 on Sep 07,2015
+# Loading work.testbench
+# Loading work.Network
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(494): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(508): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(522): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(536): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(550): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(564): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(578): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(592): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(606): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(620): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(634): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(648): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(662): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(676): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(690): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(704): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(718): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(732): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(746): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(760): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(769): Instantiation of 'RouterCore' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(813): Instantiation of 'RouterCore' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(857): Instantiation of 'RouterCore' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(901): Instantiation of 'RouterCore' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# Error loading design
+vsim work.testbench
+# vsim 
+# Start time: 11:18:55 on Sep 07,2015
+# Loading work.testbench
+# Loading work.Network
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(494): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(508): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(522): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(536): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(550): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(564): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(578): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(592): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(606): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(620): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(634): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(648): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(662): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(676): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(690): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(704): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(718): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(732): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(746): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(760): Instantiation of 'File_load' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(769): Instantiation of 'RouterCore' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(813): Instantiation of 'RouterCore' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(857): Instantiation of 'RouterCore' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# ** Error: (vsim-3033) /home/ntu-nikesh/Desktop/network/verilogModules/Network.v(901): Instantiation of 'RouterCore' failed. The design unit was not found.
+#         Region: /testbench/dut
+#         Searched libraries:
+#             /home/ntu-nikesh/Desktop/network/work
+# Error loading design
+# Compile of Network.v was successful.
+# Compile of parameters.v was successful.
+# Compile of testbench.v was successful.
+# Compile of File_load.v was successful.
+# Compile of InputArbiter.v was successful.
+# Compile of InputQueue.v was successful.
+# Compile of OutPortFIFO.v was successful.
+# Compile of Output_encoder.v was successful.
+# Compile of OutputArbiter.v was successful.
+# Compile of RegFile_1port.v was successful.
+# Compile of RouterAllocator.v was successful.
+# Compile of RouterCore.v was successful.
+# 12 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim 
+# Start time: 11:22:20 on Sep 07,2015
+# Loading work.testbench
+# Loading work.Network
+# Loading work.File_load
+# Loading work.RouterCore
+# Loading work.InputQueue
+# Loading work.Register
+# Loading work.OutPortFIFO
+# Loading work.RouterAllocator
+# Loading work.InputArbiter
+# Loading work.OutputArbiter
+# Loading work.Outport_encoder
+# ** Warning: (vsim-3017) /home/ntu-nikesh/Desktop/network/verilogModules/testbench.v(132): [TFMPC] - Too few port connections. Expected 38, found 34.
+#         Region: /testbench/dut
+# ** Warning: (vsim-3722) /home/ntu-nikesh/Desktop/network/verilogModules/testbench.v(132): [TFMPC] - Missing connection for port 'recv_ports_info_0_getRecvPortID'.
+# ** Warning: (vsim-3722) /home/ntu-nikesh/Desktop/network/verilogModules/testbench.v(132): [TFMPC] - Missing connection for port 'recv_ports_info_1_getRecvPortID'.
+# ** Warning: (vsim-3722) /home/ntu-nikesh/Desktop/network/verilogModules/testbench.v(132): [TFMPC] - Missing connection for port 'recv_ports_info_2_getRecvPortID'.
+# ** Warning: (vsim-3722) /home/ntu-nikesh/Desktop/network/verilogModules/testbench.v(132): [TFMPC] - Missing connection for port 'recv_ports_info_3_getRecvPortID'.
+add wave -position end  sim:/testbench/HalfClkPeriod
+add wave -position end  sim:/testbench/ClkPeriod
+add wave -position end  sim:/testbench/vc_bits
+add wave -position end  sim:/testbench/dest_bits
+add wave -position end  sim:/testbench/flit_port_width
+add wave -position end  sim:/testbench/credit_port_width
+add wave -position end  sim:/testbench/test_cycles
+add wave -position end  sim:/testbench/Clk
+add wave -position end  sim:/testbench/Rst_n
+add wave -position end  sim:/testbench/send_flit
+add wave -position end  sim:/testbench/flit_in
+add wave -position end  sim:/testbench/send_credit
+add wave -position end  sim:/testbench/credit_in
+add wave -position end  sim:/testbench/credit_out
+add wave -position end  sim:/testbench/flit_out
+add wave -position end  sim:/testbench/cycle
+add wave -position end  sim:/testbench/i
+add wave -position end  sim:/testbench/is_valid
+add wave -position end  sim:/testbench/is_tail
+add wave -position end  sim:/testbench/dest
+add wave -position end  sim:/testbench/vc
+add wave -position end  sim:/testbench/data
+run -all
+# ---- Performing Reset ----
+# @  5: Injecting flit 1c10 into send port 1
+# @  5: Injecting flit 1cff into send port 3
+# @  5: Injecting flit 1411 into send port 0
+# @  6: Injecting flit 1c12 into send port 0
+# @  7: Ejecting flit 1411 at receive port 2
+# @  8: Ejecting flit 1c10 at receive port 2
+# @  9: Ejecting flit 1c10 at receive port 2
+# @ 10: Ejecting flit 1c12 at receive port 2
+# @ 11: Ejecting flit 1cff at receive port 2
+# @ 12: Ejecting flit 1cff at receive port 2
+# ** Note: $finish    : /home/ntu-nikesh/Desktop/network/verilogModules/testbench.v(125)
+#    Time: 215 ns  Iteration: 1  Instance: /testbench
+# 1
+# Break in Module testbench at /home/ntu-nikesh/Desktop/network/verilogModules/testbench.v line 125
+# End time: 11:23:10 on Sep 07,2015, Elapsed time: 0:00:50
+# Errors: 0, Warnings: 5

@@ -1,0 +1,81 @@
+/home/ntu-nikesh/Desktop/network/verilogModules/File_load.v {1 {vlog -work work -stats=none /home/ntu-nikesh/Desktop/network/verilogModules/File_load.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module File_load
+
+Top level modules:
+	File_load
+
+} {} {}} /home/ntu-nikesh/Desktop/network/verilogModules/testbench.v {1 {vlog -work work -stats=none /home/ntu-nikesh/Desktop/network/verilogModules/testbench.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} /home/ntu-nikesh/Desktop/network/verilogModules/Output_encoder.v {1 {vlog -work work -stats=none /home/ntu-nikesh/Desktop/network/verilogModules/Output_encoder.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Outport_encoder
+
+Top level modules:
+	Outport_encoder
+
+} {} {}} /home/ntu-nikesh/Desktop/network/verilogModules/OutPortFIFO.v {1 {vlog -work work -stats=none /home/ntu-nikesh/Desktop/network/verilogModules/OutPortFIFO.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module OutPortFIFO
+
+Top level modules:
+	OutPortFIFO
+
+} {} {}} /home/ntu-nikesh/Desktop/network/verilogModules/Network.v {1 {vlog -work work -stats=none /home/ntu-nikesh/Desktop/network/verilogModules/Network.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Network
+
+Top level modules:
+	Network
+
+} {} {}} /home/ntu-nikesh/Desktop/network/verilogModules/parameters.v {1 {vlog -work work -stats=none /home/ntu-nikesh/Desktop/network/verilogModules/parameters.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+
+} {} {}} /home/ntu-nikesh/Desktop/network/verilogModules/InputQueue.v {1 {vlog -work work -stats=none /home/ntu-nikesh/Desktop/network/verilogModules/InputQueue.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module InputQueue
+
+Top level modules:
+	InputQueue
+
+} {} {}} /home/ntu-nikesh/Desktop/network/verilogModules/InputArbiter.v {1 {vlog -work work -stats=none /home/ntu-nikesh/Desktop/network/verilogModules/InputArbiter.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module InputArbiter
+
+Top level modules:
+	InputArbiter
+
+} {} {}} /home/ntu-nikesh/Desktop/network/verilogModules/OutputArbiter.v {1 {vlog -work work -stats=none /home/ntu-nikesh/Desktop/network/verilogModules/OutputArbiter.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module OutputArbiter
+
+Top level modules:
+	OutputArbiter
+
+} {} {}} /home/ntu-nikesh/Desktop/network/verilogModules/RouterAllocator.v {1 {vlog -work work -stats=none /home/ntu-nikesh/Desktop/network/verilogModules/RouterAllocator.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module RouterAllocator
+
+Top level modules:
+	RouterAllocator
+
+} {} {}} /home/ntu-nikesh/Desktop/network/verilogModules/RouterCore.v {1 {vlog -work work -stats=none /home/ntu-nikesh/Desktop/network/verilogModules/RouterCore.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module RouterCore
+
+Top level modules:
+	RouterCore
+
+} {} {}} /home/ntu-nikesh/Desktop/network/verilogModules/RegFile_1port.v {1 {vlog -work work -stats=none /home/ntu-nikesh/Desktop/network/verilogModules/RegFile_1port.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}}
