@@ -1,0 +1,19 @@
+Fitter Status : Successful - Sun Sep  6 22:21:13 2015
+Quartus II 64-Bit Version : 14.1.0 Build 186 12/03/2014 SJ Full Version
+Revision Name : NoCRouter
+Top-level Entity Name : Network
+Family : Cyclone V
+Device : 5CSEMA5F31C6
+Timing Models : Final
+Logic utilization (in ALMs) : 527 / 32,070 ( 2 % )
+Total registers : 556
+Total pins : 146 / 457 ( 32 % )
+Total virtual pins : 0
+Total block memory bits : 1,152 / 4,065,280 ( < 1 % )
+Total DSP Blocks : 0 / 87 ( 0 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )
