@@ -1,4 +1,6 @@
-# MScStuff_Init - Low Latency Router Microarchitecture for Network-on-Chip Implemented on an FPGA
+# MSc Stuff - My attempt to work with FPGAs, never again!!
+
+## Low Latency Router Microarchitecture for Network-on-Chip Implemented on an FPGA
 
 The increasing chip density has enabled multiple cores to be integrated within a single chip giving rise to System-on-Chip(SoC). To overcome scalability and performance bottleneck in SoC, networking concept is introduced in the chip design called Network-on-Chip (NoC). NoC introduces routers within the chip which forms the communication framework. This allows the decoupling of communication aspect of the design from the computation. The architecture and the routing algorithm used for the router determines the latency induced in the router and the induced latency plays a vital role in determining the SoC performance. 
 
