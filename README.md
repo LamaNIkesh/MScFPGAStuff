@@ -1,4 +1,4 @@
-# MSc Stuff - My attempt to work with FPGAs, never again!!
+# My attempt to work with FPGAs, never again!! There is a pdf file somewhere in this clutter for anyone interested.
 
 ## Low Latency Router Microarchitecture for Network-on-Chip Implemented on an FPGA
 
